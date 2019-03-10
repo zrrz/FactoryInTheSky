@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{5E9E79CD-337F-D734-2D72-E0DACAE92CEE}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Database/Editor/BlockDatabaseEditorWindow.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Database/Editor/BlockDatabaseEditorWindow.cs" Line="109" Column="35" />
+      <File FileName="Assets/Scripts/BlockData.cs" Line="1" Column="1" />
+      <File FileName="Assets/Game/Scripts/ChunkData.cs" Line="91" Column="69" />
+      <File FileName="Assets/Scripts/Database/Editor/ItemDatabaseEditorWindow.cs" Line="112" Column="20" NotebookId="1" />
+      <File FileName="Assets/Scripts/ItemLoader.cs" Line="235" Column="86" NotebookId="1" />
+      <File FileName="Assets/Scripts/NewVoxels/MeshUtility.cs" Line="7" Column="24" NotebookId="1" />
+      <File FileName="Assets/Scripts/ItemData.cs" Line="45" Column="18" NotebookId="1" />
+      <File FileName="Assets/Scripts/BlockLoader.cs" Line="41" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/NewVoxels/EditTerrain.cs" Line="83" Column="21" NotebookId="1" />
+      <File FileName="Assets/Game/Scripts/World.cs" Line="58" Column="39" NotebookId="1" />
+      <File FileName="Assets/Sandbox/Zack/BlockPlacer.cs" Line="83" Column="123" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

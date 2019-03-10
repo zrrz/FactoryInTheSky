@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a46de61f77804955a367d5e7723400e, type: 3}
+  m_Name: BlockDatabase
+  m_EditorClassIdentifier: 
+  blocks:
+  - texturePosition:
+    - x: 0
+      y: 0
+    - x: 0
+      y: 0
+    - x: 0
+      y: 0
+    - x: 0
+      y: 0
+    - x: 0
+      y: 0
+    - x: 0
+      y: 0
+    solid: 1
+    blockID: 0
+    name: Dirt
+    hardnessTier: 0
+    brightness: 0
+    textures:
+    - {fileID: 2800000, guid: 922914014ee1a48efba5ec2044088df1, type: 3}
+    - {fileID: 2800000, guid: 922914014ee1a48efba5ec2044088df1, type: 3}
+    - {fileID: 2800000, guid: 922914014ee1a48efba5ec2044088df1, type: 3}
+    - {fileID: 2800000, guid: 922914014ee1a48efba5ec2044088df1, type: 3}
+    - {fileID: 2800000, guid: 922914014ee1a48efba5ec2044088df1, type: 3}
+    - {fileID: 2800000, guid: 922914014ee1a48efba5ec2044088df1, type: 3}
+    drops:
+    - itemID: 1
+      amount: 0
+      percentChance: 0
+    - itemID: 4
+      amount: 0
+      percentChance: 0.78
+    - itemID: 2
+      amount: 0
+      percentChance: 0
+  - texturePosition:
+    - x: 1
+      y: 0
+    - x: 1
+      y: 0
+    - x: 2
+      y: 0
+    - x: 2
+      y: 0
+    - x: 2
+      y: 0
+    - x: 2
+      y: 0
+    solid: 1
+    blockID: 0
+    name: Wood
+    hardnessTier: 1
+    brightness: 0
+    textures:
+    - {fileID: 2800000, guid: 8686065226e1944d9bea60e786d559ef, type: 3}
+    - {fileID: 2800000, guid: 8686065226e1944d9bea60e786d559ef, type: 3}
+    - {fileID: 2800000, guid: 2789d18c0e9d445b8bf8524be29cea5a, type: 3}
+    - {fileID: 2800000, guid: 2789d18c0e9d445b8bf8524be29cea5a, type: 3}
+    - {fileID: 2800000, guid: 2789d18c0e9d445b8bf8524be29cea5a, type: 3}
+    - {fileID: 2800000, guid: 2789d18c0e9d445b8bf8524be29cea5a, type: 3}
+    drops: []
+  - texturePosition:
+    - x: 3
+      y: 0
+    - x: 3
+      y: 0
+    - x: 3
+      y: 0
+    - x: 3
+      y: 0
+    - x: 3
+      y: 0
+    - x: 3
+      y: 0
+    solid: 1
+    blockID: 0
+    name: Stone
+    hardnessTier: 2
+    brightness: 0
+    textures:
+    - {fileID: 2800000, guid: 8cc56b55b1ff44928880fe4056f64b28, type: 3}
+    - {fileID: 2800000, guid: 8cc56b55b1ff44928880fe4056f64b28, type: 3}
+    - {fileID: 2800000, guid: 8cc56b55b1ff44928880fe4056f64b28, type: 3}
+    - {fileID: 2800000, guid: 8cc56b55b1ff44928880fe4056f64b28, type: 3}
+    - {fileID: 2800000, guid: 8cc56b55b1ff44928880fe4056f64b28, type: 3}
+    - {fileID: 2800000, guid: 8cc56b55b1ff44928880fe4056f64b28, type: 3}
+    drops:
+    - itemID: 4
+      amount: 0
+      percentChance: 51
+  - texturePosition:
+    - x: 4
+      y: 0
+    - x: 4
+      y: 0
+    - x: 4
+      y: 0
+    - x: 4
+      y: 0
+    - x: 5
+      y: 0
+    - x: 4
+      y: 0
+    solid: 1
+    blockID: 0
+    name: Furnace
+    hardnessTier: 2
+    brightness: 0
+    textures:
+    - {fileID: 2800000, guid: a5331cb4a9dd249cba9032ee15b4007e, type: 3}
+    - {fileID: 2800000, guid: a5331cb4a9dd249cba9032ee15b4007e, type: 3}
+    - {fileID: 2800000, guid: a5331cb4a9dd249cba9032ee15b4007e, type: 3}
+    - {fileID: 2800000, guid: a5331cb4a9dd249cba9032ee15b4007e, type: 3}
+    - {fileID: 2800000, guid: 8394772564464479d86e739005751edc, type: 3}
+    - {fileID: 2800000, guid: a5331cb4a9dd249cba9032ee15b4007e, type: 3}
+    drops: []
